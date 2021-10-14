@@ -1,4 +1,4 @@
-## git clone <this URL>
+## git clone this URL
 
 ## docker-compose build
 
